@@ -1,0 +1,11 @@
+body {
+    background: #008de1;
+}
+
+.title, span, div, li {
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
